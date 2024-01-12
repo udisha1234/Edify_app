@@ -1,6 +1,6 @@
 # edify
 
-A new Flutter project.
+edify images 
 
 ## Getting Started
 
